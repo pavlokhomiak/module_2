@@ -47,11 +47,6 @@ public class App2 {
                 }
             }
         }
-        /*
-        return result.stream()
-                .mapToInt(i -> i)
-                .toArray();
-         */
         return null;
     }
 }
